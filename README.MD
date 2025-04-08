@@ -2,7 +2,7 @@ Fullstack разработчик. Люблю разрабатывать, код�
 
 Сейчас в процессе сайт с рецептами кофе на React+Nest и USB-измеритель с записью данных в файлы и выводом на экран компьютера.
 
-Мой стек: HTML, Pug, CSS, SCSS, JavaScript, TypeScript, ООП, React, Node.js, Express, Nest, PasportJS, Docker, Webpack, Jest, Linux, WSL, MongoDB, PostgreSQL, Nginx, REST API, Git, CI/CD, Python, tkInter, C++
+Мой стек: **HTML, Pug, CSS, SCSS, JavaScript, TypeScript, ООП, React, Node.js, Express, Nest, PasportJS, Docker, Webpack, Jest, Linux, WSL, MongoDB, PostgreSQL, Nginx, REST API, Git, CI/CD, Python, tkInter, C++**
 
 - **USB-измеритель "Серийный ужик":**\
   ссылка: [https://github.com/Ashizius/Uzhik-USB-Voltmeter/blob/main/README.md](https://github.com/Ashizius/Uzhik-USB-Voltmeter/blob/main/README.md)\
